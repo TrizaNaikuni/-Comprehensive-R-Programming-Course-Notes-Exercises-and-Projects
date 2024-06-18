@@ -1,7 +1,7 @@
-# -Comprehensive-R-Programming-Course-Notes-Exercises-and-Projects
+# -Foundational-R-Programming-Course-Notes-Exercises-and-Projects
 
 Description:
-Welcome to the Comprehensive R Programming Course repository! This repository is designed to provide a structured and thorough introduction to R programming over a 5-week period. Whether you are a beginner or looking to refresh your skills, this course will guide you through the essential concepts and techniques used in R programming.
+Welcome to the Comprehensive R Programming Course repository! This repository is designed to provide a structured and thorough introduction to R programming over a 3-week period. Whether you are a beginner or looking to refresh your skills, this course will guide you through the essential concepts and techniques used in R programming.
 
 Repository Contents:
 Week-by-Week Notes: Detailed lecture notes for each week, covering key concepts and techniques.
